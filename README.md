@@ -4,6 +4,6 @@
 
 This is another test for the save artifacts after starting all over again
 
-Test FOR SAVE ARTIFACTS
+# This is a Test FOR SAVE ARTIFACTS set up on jenkins using
 
-Test for artifacts after running the command /home command
+
