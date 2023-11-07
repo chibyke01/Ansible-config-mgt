@@ -4,4 +4,6 @@
 
 # This is a test for the Jnkins server
 
+# This is a save artifacts test
+
 
