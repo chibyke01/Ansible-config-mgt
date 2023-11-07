@@ -6,4 +6,6 @@
 
 # This is a save artifacts test 2
 
+test
+
 
