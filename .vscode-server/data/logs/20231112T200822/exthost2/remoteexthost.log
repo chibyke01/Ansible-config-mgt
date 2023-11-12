@@ -1,0 +1,27 @@
+2023-11-12 20:08:57.611 [info] Extension host with pid 2392 started
+2023-11-12 20:08:57.685 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/24792963dead4fd236e9616f90c2d20c/vscode.lock': Lock acquired.
+2023-11-12 20:08:57.872 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*'
+2023-11-12 20:08:58.013 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2023-11-12 20:08:58.348 [info] Eager extensions activated
+2023-11-12 20:08:58.348 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-12 20:08:58.349 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-12 20:08:58.585 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-11-12 20:10:27.113 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-11-12 20:10:42.391 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-12 20:15:45.760 [error] Error: Repository not initialized
+	at k.db (/home/ubuntu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1384534)
+	at k.checkIgnore (/home/ubuntu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382149)
+	at c.g (/home/ubuntu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1265640)
+	at Timeout._onTimeout (/home/ubuntu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1268861)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-11-12 20:15:46.762 [error] Error: Repository not initialized
+	at k.db (/home/ubuntu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1384534)
+	at k.checkIgnore (/home/ubuntu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382149)
+	at c.g (/home/ubuntu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1265640)
+	at Timeout._onTimeout (/home/ubuntu/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1268861)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-11-12 20:20:08.302 [info] Extension host terminating: received terminate message from renderer
+2023-11-12 20:20:08.302 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/24792963dead4fd236e9616f90c2d20c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-11-12 20:20:08.335 [info] Extension host with pid 2392 exiting with code 0
